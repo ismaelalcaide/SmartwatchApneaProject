@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47958636882",
+    "project_id": "whosleep",
+    "storage_bucket": "whosleep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47958636882:android:c3f032ae42a6ab3f8d628b",
+        "android_client_info": {
+          "package_name": "com.samsung.health.multisensortracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIiUQbWfmv_9nqUGGYOP6u-sXDs91OjF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
