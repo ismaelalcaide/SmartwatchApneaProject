@@ -29,3 +29,15 @@ En esta carpeta se encuentra el archivo algoritmosAA.py que contiene todos los a
 #### Gráficas y Evaluaciones
 - Gráfica t-SNE: Utilizada para la visualización de datos de alta dimensionalidad en dos dimensiones.
 - Gini Impurity: Utilizada para medir la importancia de las características en el modelo Random Forest.
+
+### 4. Análisis Exploratorio
+
+El archivo graficas_sleepdata.py contiene la creación de gráficas a partir de los datos del smartwatch de los pacientes. Las gráficas generadas incluyen:
+
+- Módulo de Aceleración: Representa la aceleración del paciente durante el sueño en funcion del tiempo.
+- HR (Heart Rate): Muestra la frecuencia cardíaca registrada en funcion del tiempo.
+- IBI (Inter Beat Interval): Representa el intervalo entre latidos en funcion del tiempo.
+- SpO2 (Saturación de Oxígeno): Muestra los niveles de saturación de oxígeno en la sangre en funcion del tiempo.
+- TEMP (Temperatura): Grafica la temperatura del paciente en funcion del tiempo.
+
+Estas gráficas permiten visualizar y analizar los datos recopilados por el smartwatch para identificar patrones y correlaciones relacionadas con los eventos de apnea del sueño.
